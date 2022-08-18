@@ -1,0 +1,9 @@
+Django~=4.1
+virtualenv==20.14.1
+djangorestframework~=3.13.1
+django-filter~=22.1
+drf_yasg~=1.21.3
+'логин и парол админа:
+логин: admin
+парол: Root456456
+'
